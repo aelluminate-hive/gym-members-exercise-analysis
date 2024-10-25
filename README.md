@@ -1,1 +1,1 @@
-# gym-members-exercise-analysis
+# Gym Members Exercise Analysis
