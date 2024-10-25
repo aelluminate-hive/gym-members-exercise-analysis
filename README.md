@@ -1,1 +1,5 @@
 # Gym Members Exercise Analysis
+
+This project explores the analysis of a fitness dataset that includes various features such as age, gender, weight, height, heart rate metrics, workout sessions, and fitness habits. The dataset, consisting of 973 records, is loaded and examined through exploratory data analysis (EDA) to uncover insights about exercise patterns, calorie consumption, body composition, and overall fitness levels. A custom function groups the dataset by age ranges to analyze trends across demographics.
+
+The analysis reveals key statistics such as average age, body mass index (BMI), workout duration, and calories burned. Additionally, the data highlights correlations between workout type, frequency, and physiological markers like heart rate and fat percentage. Through this project, we aim to provide a comprehensive understanding of fitness behaviors and factors that influence exercise outcomes, contributing to improved fitness planning and health management.
